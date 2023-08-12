@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:93
+#EXTINF:92.008578,
+https://gimg0.baidu.com/search/app=0&src=https%3A%2F%2Fanalysis.tkd.qq.com%2Fintegrate%2Fapi%2Ffiles%2Fimage-a%2F1118bf4438514e671e56158d163f37f3-1862356.jpeg
+#EXT-X-ENDLIST
