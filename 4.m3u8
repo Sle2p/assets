@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.000000,
+https://gimg0.baidu.com/search/app=0&src=https%3A%2F%2Fanalysis.tkd.qq.com%2Fintegrate%2Fapi%2Ffiles%2Fimage-a%2Fe74b8323bac9dac646c10cda16cc93a6-669520.jpg
+#EXT-X-ENDLIST
